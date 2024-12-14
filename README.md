@@ -1,1 +1,1 @@
-# Automated-Document-Processing-Using-OCR-and-Gen-AI
+The primary objective of this project is to develop an integrated document processing system that combines enhanced OCR capabilities with generative Artificial Intelligence techniques for effective text extraction and summarization
