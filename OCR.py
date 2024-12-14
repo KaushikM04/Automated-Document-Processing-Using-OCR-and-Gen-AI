@@ -9,8 +9,7 @@ from PIL import Image
 from streamlit_extras.stateful_button import button
 import unicodedata
 import google.generativeai as genai
-# Initialize Google Gemini Pro
-genai.configure(api_key="AIzaSyATeuavfgyi58IOrWbYnikFchU4BCoZuhw")
+
 # Create the model with the configuration
 generation_config = {
     "temperature": 1,
